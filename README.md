@@ -38,5 +38,5 @@ DeaSint
 
 Вся ответственность за использование утилиты целиком и полностью лежит на конечном пользователе. Нажимая кнопку "Скачать" или запуска сырой код, вы автоматически соглашаетесь с данными условиями.
 
-<img width="778" height="921" alt="Screenshot_101" src="https://github.com/user-attachments/assets/692545cc-1f6f-4ea5-a1f3-39eee89fdd44" />
 <img width="956" height="827" alt="Screenshot_100" src="https://github.com/user-attachments/assets/c553215a-1a78-40b2-8ff2-f6dc90c5ef72" />
+<img width="778" height="921" alt="Screenshot_101" src="https://github.com/user-attachments/assets/692545cc-1f6f-4ea5-a1f3-39eee89fdd44" />
