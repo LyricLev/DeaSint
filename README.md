@@ -6,8 +6,6 @@ DeaSint
 
 > **ВАЖНОЕ ПРИМЕЧАНИЕ:** Этот инструмент является полностью локальным. Он не содержит встроенных сетевых парсеров, не выполняет автоматический поиск по интернету и не отправляет вводимые вами данные на внешние сервера или сторонние ресурсы. Вся работа происходит исключительно на вашем компьютере.
 
-<img width="956" height="827" alt="Screenshot_100" src="https://github.com/user-attachments/assets/c553215a-1a78-40b2-8ff2-f6dc90c5ef72" />
-<img width="778" height="921" alt="Screenshot_101" src="https://github.com/user-attachments/assets/692545cc-1f6f-4ea5-a1f3-39eee89fdd44" />
 
 ## 🎯 Основной функционал
 
@@ -27,6 +25,8 @@ DeaSint
 3. Распакуйте архив в любую удобную папку на вашем компьютере.
 4. Запустите файл `DeaSint.exe`. Установка Python или дополнительных библиотек не требуетсяю
 
+<img width="956" height="827" alt="Screenshot_100" src="https://github.com/user-attachments/assets/c553215a-1a78-40b2-8ff2-f6dc90c5ef72" />
+<img width="778" height="921" alt="Screenshot_101" src="https://github.com/user-attachments/assets/692545cc-1f6f-4ea5-a1f3-39eee89fdd44" />
 
 ## ⚠️ Отказ от ответственности (Disclaimer)
 
